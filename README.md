@@ -1,6 +1,6 @@
 # findlibs
 
-A Python package that search for shared libraries on various platforms.
+A Python package that searches for shared libraries on various platforms.
 
 
 ```python
