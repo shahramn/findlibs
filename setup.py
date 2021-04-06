@@ -32,7 +32,7 @@ assert version
 setuptools.setup(
     name="findlibs",
     version=version,
-    description="A packages to search for shared libraries on various platforms",
+    description="A package to search for shared libraries on various platforms",
     long_description=read("README.md"),
     author="European Centre for Medium-Range Weather Forecasts (ECMWF)",
     author_email="software.support@ecmwf.int",
